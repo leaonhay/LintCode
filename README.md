@@ -1,1 +1,1 @@
-# LintCode
+A Coding freshman.
